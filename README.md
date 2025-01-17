@@ -1,1 +1,3 @@
-F fdf aav a# shams
+# shams
+this is my frist git repository
+Author- Shams Riaz
